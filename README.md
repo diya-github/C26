@@ -1,2 +1,1 @@
-# C26
-objects with strings
+# C20-Student-boilerplate-code
